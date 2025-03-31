@@ -19,7 +19,7 @@
 
 ## 🔥 Featured Project
 
-🔗 [Word Matching App]((https://www.clicktomemo.com/))
+🔗 [Word Matching App](https://www.clicktomemo.com/)
 An interactive word-matching app that transforms learning into a game.
 Upload your own Excel files or use built-in examples to match words, images, or concepts — perfect for kids, adults, and teachers.
 
